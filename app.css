@@ -6,7 +6,7 @@
     --filled-bg: #caf0f8;
 
     --white: #fff;
-    --blue: #00aeef;
+    --blue: #efaf00;
     --red: #e91e63;
     --black: #000;
 
@@ -25,8 +25,8 @@
 }
 
 .dark {
-    --bg-main: #2a2a38;
-    --bg-body: #1a1a2e;
+    --bg-main: #2a382e;
+    --bg-body: #1a2e20;
     --color-txt: #6a6a6a;
     --filled-color: #4f4f63;
     --filled-bg: #000;
